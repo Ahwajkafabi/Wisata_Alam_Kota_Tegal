@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wisata Alam</string>
+    <string name="about">About Me</string>
+    <string name="wisata_name">Nama Tempat Wisata</string>
+    <string name="wisata_desc">Deskripsi</string>
+    <string name="nama">Ahwaj Kafabi</string>
+    <string name="email">Ahwajk@gmail.com</string>
+    <string name="Ahwaj_Kafabi">Ahwaj Kafabi</string>
+    <string name="Ahwajk_gmail_com">Ahwajk@gmail.com</string>
+</resources>
